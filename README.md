@@ -27,21 +27,7 @@ Streamlit Dashboard
 
 ---
 
-# Project Structure
 
-```text
-healthcare_dataanalysis/
-├── sql/
-│   └── setup.sql
-├── streamlit/
-│   ├── .streamlit/config.toml
-│   ├── snowflake.yml
-│   ├── pyproject.toml
-│   └── streamlit_app.py
-└── README.md
-```
-
----
 
 # Dataset
 
