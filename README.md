@@ -30,7 +30,7 @@ Streamlit Dashboard
 # Project Structure
 
 ```text
-healthcare-claims-pipeline/
+healthcare_dataanalysis/
 ├── sql/
 │   └── setup.sql
 ├── streamlit/
